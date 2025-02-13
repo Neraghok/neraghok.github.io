@@ -10,13 +10,12 @@ toc: true
 </div>
 <hr>
 
-
 ## Extensiones para firefox
 
 <div class="flashcard-container">
   <div class="flashcard">
     <div class="flashcard-image">
-      <img src="assets/images/Recursos/FoxyProxy.png" alt="FoxyProxy">
+      <img src="/assets/imagenes/recursos/FoxyProxy.png" alt="FoxyProxy">
     </div>
     <div class="flashcard-text">
       <p>Este es un ejemplo de texto para la primera flashcard. Puede ser una descripción o cualquier otro texto.</p>
@@ -26,10 +25,31 @@ toc: true
 
   <div class="flashcard">
     <div class="flashcard-image">
-      <img src="https://via.placeholder.com/150" alt="Imagen 2">
+      <img src="/assets/imagenes/recursos/Wappalyzer.jpg" alt="Wappalyzer">
     </div>
     <div class="flashcard-text">
-      <p>Este es un ejemplo de texto para la segunda flashcard. De nuevo, puedes poner cualquier contenido aquí.</p>
+      <p>Este es un ejemplo de texto para la primera flashcard. Puede ser una descripción o cualquier otro texto.</p>
+      <a href="https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/" target="_blank" class="obtener-boton">Obtener</a>
+    </div>
+  </div>
+
+  <div class="flashcard">
+    <div class="flashcard-image">
+      <img src="/assets/imagenes/recursos/Cookie-Editor.jpg" alt="FoxyProxy">
+    </div>
+    <div class="flashcard-text">
+      <p>Este es un ejemplo de texto para la primera flashcard. Puede ser una descripción o cualquier otro texto.</p>
+      <a href="https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/" target="_blank" class="obtener-boton">Obtener</a>
+    </div>
+  </div>
+
+  <div class="flashcard">
+    <div class="flashcard-image">
+      <img src="/assets/imagenes/recursos/DotGit.jpg" alt="DotGit">
+    </div>
+    <div class="flashcard-text">
+      <p>Este es un ejemplo de texto para la primera flashcard. Puede ser una descripción o cualquier otro texto.</p>
+      <a href="https://addons.mozilla.org/en-US/firefox/addon/dotgit/" target="_blank" class="obtener-boton">Obtener</a>
     </div>
   </div>
 </div>
@@ -81,4 +101,5 @@ toc: true
 
   .obtener-boton:hover {
     background-color: #0056b3;
-
+  }
+</style>
